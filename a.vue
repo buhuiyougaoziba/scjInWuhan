@@ -119,7 +119,7 @@
     font: 14px PingFangSC;
     padding: 4px 0 0;
 }
-/* w */
+/* what the fuck */
 /* 
     .info-common-type::after{
         position:relative;
