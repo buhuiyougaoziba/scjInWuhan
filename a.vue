@@ -120,6 +120,7 @@
     padding: 4px 0 0;
 }
 /* oh my god */
+/* what the fuck */
 /* 
     .info-common-type::after{
         position:relative;
